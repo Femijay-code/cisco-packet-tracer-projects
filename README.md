@@ -2,7 +2,6 @@
 
 This repository showcases two hands-on Cisco Packet Tracer projects simulating real-world enterprise and office network environments. Each project demonstrates essential networking concepts like VLANs, inter-VLAN routing, IP addressing, trunking, and connectivity testing.
 
-### 🖥️ Projects Included:
 
 ### 🖥️ Projects Included:
 
