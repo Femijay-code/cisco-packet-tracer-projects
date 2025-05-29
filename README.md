@@ -1,23 +1,35 @@
-## **Cisco Packet Tracer Projects**
+# Cisco Packet Tracer Projects
 
-This repository showcases two hands-on Cisco Packet Tracer projects simulating real-world enterprise and office network environments. Each project demonstrates essential networking concepts like VLANs, inter-VLAN routing, IP addressing, trunking, and connectivity testing.
-
-
-### 🖥️ Projects Included:
-
-1. [Project 1 – Basic VLAN Configuration and Inter-VLAN Routing using Router-on-a-Stick](./Project1-Basic-VLAN-Routing/README.md)  
-   A multi-department network using VLANs with a single router interface for inter-VLAN communication.
-
-2. [Project 2 – Simple Office Network Topology with Basic Device Configuration](./Project2/README.md)  
-   A basic LAN with three PCs connected through a switch and router, simulating separate departments.
-
+This repository contains practical Cisco Packet Tracer network simulation projects demonstrating VLAN routing and Router-on-a-Stick configurations.
 
 ---
 
-Each project includes:
+## Project Folders
 
-* 🗂️ Cisco Packet Tracer files (`.pkt`)
-* 📸 Key configuration screenshots
-* 📄 Detailed documentation in `README.md`
+### [VLAN Routing](./vlan-routing)  
+Contains configurations and documentation for VLAN setup and inter-VLAN routing. Includes packet tracer files, screenshots, and detailed steps for lab replication.
+
+### [Router-on-a-Stick](./router-on-a-stick)  
+Focuses on configuring Router-on-a-Stick inter-VLAN routing topology. Includes network diagrams, configuration files, and validation commands.
 
 ---
+
+## Repository Structure
+
+- `vlan-routing/` — VLAN Routing project folder  
+- `router-on-a-stick/` — Router-on-a-Stick project folder  
+
+Each folder contains:
+- Packet tracer simulation files (`.pkt`)  
+- Project-specific README with detailed instructions  
+- Supporting screenshots and documentation files
+
+---
+
+## Usage
+
+Clone the repository and navigate into each project folder to explore the Packet Tracer files and documentation for hands-on practice.
+
+```bash
+git clone https://github.com/Femijay-code/cisco-packet-tracer-projects.git
+cd cisco-packet-tracer-projects
