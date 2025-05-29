@@ -6,10 +6,10 @@ This repository contains practical Cisco Packet Tracer network simulation projec
 
 ## Project Folders
 
-### [VLAN Routing](./vlan-routing)  
+### [VLAN Routing](projects/vlan-routing)  
 Contains configurations and documentation for VLAN setup and inter-VLAN routing. Includes packet tracer files, screenshots, and detailed steps for lab replication.
 
-### [Router-on-a-Stick](./router-on-a-stick)  
+### [Router-on-a-Stick](projects/router-on-a-stick)  
 Focuses on configuring Router-on-a-Stick inter-VLAN routing topology. Includes network diagrams, configuration files, and validation commands.
 
 ---
